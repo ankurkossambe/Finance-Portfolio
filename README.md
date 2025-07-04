@@ -61,6 +61,6 @@ This folder features my personal finance pieces, market commentaries, and invest
 ## 📬 Let’s Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/contactankurkossambe)  
 - 🐦 [Twitter](https://twitter.com/AnkurKossambe)  
-- 📧 Email: ankurkossambe@gmail.com
+- 📧 ankurkossambe@gmail.com
 
 Let’s grow together 🚀
