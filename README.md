@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Finance Portfolio Banner" width="100%">
+  <img src="Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png" alt="Finance Portfolio Banner" width="100%">
 </p>
 # 📁 Finance-Portfolio – Ankur Kossambe
 
