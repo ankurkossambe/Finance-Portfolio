@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Finance Portfolio Banner" width="100%">
+</p>
 # 📁 Finance-Portfolio – Ankur Kossambe
 
 Welcome to my professional finance portfolio.
