@@ -38,10 +38,8 @@ Includes my verified certifications in:
 ---
 
 ### 📝 Finance-Articles
-My personal content from Substack and social media:
-- Market commentary  
-- Financial literacy posts  
-- Behavioral finance insights  
+# Finance Articles
+This folder features my personal finance pieces, market commentaries, and investment insights from Substack.  
 - [Read more on Substack](https://moneymirth.substack.com)
 
 ---
